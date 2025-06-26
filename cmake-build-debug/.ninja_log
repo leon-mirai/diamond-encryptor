@@ -1,0 +1,19 @@
+# ninja log v6
+16	266	7673520403854226	build.ninja	633b1dfc43d17cce
+13	2098	7672815629946664	CMakeFiles/milestone1.dir/Grid.cpp.obj	47ae65efaf033d24
+23	1600	7673342887276462	CMakeFiles/milestone1.dir/Diamond_Algorithm/Encryptor.cpp.obj	baafeff4c799f5dc
+62	1748	7676034461295766	CMakeFiles/milestone1.dir/week11.cpp.obj	43def59fa29ce699
+38	1337	7673320737673637	CMakeFiles/milestone1.dir/Decryptor.cpp.obj	4f3f454279611352
+2033	2483	7683851205179399	milestone1.exe	f9a75b4a729558c9
+59	1661	7683851185432511	CMakeFiles/milestone1.dir/diamond_algorithm/Decryptor.cpp.obj	d4928d5be94063e4
+25	685	7673262441175340	CMakeFiles/milestone1.dir/Cycle.cpp.obj	73f2a2b6e13e460e
+21	1433	7673327405258229	CMakeFiles/milestone1.dir/Encryptor.cpp.obj	f264d9726574d747
+21	677	7673342887256471	CMakeFiles/milestone1.dir/Diamond_Algorithm/Cycle.cpp.obj	1f0471fffd1c142d
+26	1440	7673342887306455	CMakeFiles/milestone1.dir/Diamond_Algorithm/Decryptor.cpp.obj	514eca2a6c6ae0c8
+18	1938	7673342887226449	CMakeFiles/milestone1.dir/Diamond_Algorithm/Grid.cpp.obj	c69927259d658c57
+54	1016	7683851185382527	CMakeFiles/milestone1.dir/diamond_algorithm/Cycle.cpp.obj	8dc8fd2cc42de73f
+56	1741	7683851185412516	CMakeFiles/milestone1.dir/diamond_algorithm/Encryptor.cpp.obj	d4a6f57dae9758b7
+46	2033	7683851185312326	CMakeFiles/milestone1.dir/diamond_algorithm/Grid.cpp.obj	532bfb31ceb6865d
+78	4673	7676034461456858	CMakeFiles/milestone1.dir/controller/Menu.cpp.obj	ebf8f1196b0daf65
+62	946	7683851185463367	CMakeFiles/milestone1.dir/controller/Action.cpp.obj	a664f01151453753
+75	2635	7676034461426864	CMakeFiles/milestone1.dir/controller/Interface.cpp.obj	c6e740ca782c9013
